@@ -1,0 +1,22 @@
+{
+  "name": "grimsite",
+  "description": "My personal website, always under development, never a solid design.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheGrimSilence/GrimSite.git",
+  "author": "TheGrimSilence <silencegrim@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "ts-node": "^8.5.4",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.4"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
